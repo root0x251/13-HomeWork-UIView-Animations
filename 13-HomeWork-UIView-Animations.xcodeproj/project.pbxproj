@@ -509,6 +509,7 @@
 				F919290A1E98B97E002BA62E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F919290B1E98B97E002BA62E /* Build configuration list for PBXNativeTarget "13-HomeWork-UIView-AnimationsTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +518,7 @@
 				F919290D1E98B97E002BA62E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F919290E1E98B97E002BA62E /* Build configuration list for PBXNativeTarget "13-HomeWork-UIView-AnimationsUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +527,7 @@
 				F91929101E98B97E002BA62E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
